@@ -3,7 +3,10 @@
     "enableImageProcessingService": true,
     "extensions": [
         "cloudmediaconversion",
-        "mediaconversionbackoffice"
+        "mediaconversionbackoffice",
+        "yacceleratorstorefront",
+        "electronicsstore",
+        "yacceleratorfulfilmentprocess"
     ],
     "useConfig": {
         "properties": [

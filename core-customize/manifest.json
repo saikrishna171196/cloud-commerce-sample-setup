@@ -6,7 +6,6 @@
         "mediaconversionbackoffice",
         "yacceleratorstorefront",
         "electronicsstore",
-        "yacceleratorfulfilmentprocess"
     ],
     "useConfig": {
         "properties": [

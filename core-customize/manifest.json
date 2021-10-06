@@ -5,7 +5,7 @@
         "cloudmediaconversion",
         "mediaconversionbackoffice",
         "yacceleratorstorefront",
-        "electronicsstore",
+        "electronicsstore"
     ],
     "useConfig": {
         "properties": [
